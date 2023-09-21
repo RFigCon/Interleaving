@@ -2,7 +2,7 @@ Writing an interleaving algorithm in 7 different languages, compiling the code w
 
 Tests are being ran in a Windows 10 machine, with a Ryzen 5 2600 and 16GB of RAM.
 
-| Language | Best Time | Compiler and command |
+| Language | Best Time | Compiler and flags |
 | -------- | --------- | -------------------- |
 | Python | 4889 us | (python3) |
 | Zig | 142 us | (zig build-exe) |
